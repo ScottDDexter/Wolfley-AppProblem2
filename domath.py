@@ -1,7 +1,7 @@
 def main():
     def domath(number):
         print("hi")
-        print(str(number) + " + " + str(number) + " = " + str(number + number))
+        print(str(number) + " + " + str(number) + " = " + str(number + number + number + number))
 
     domath(5)
 
